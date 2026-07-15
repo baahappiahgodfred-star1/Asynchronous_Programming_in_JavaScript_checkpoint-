@@ -30,4 +30,6 @@ Making concurrent requests using Promise.all().
 
 
 ---
+## Author
+**Godfred Appiah Baah**
 
